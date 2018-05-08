@@ -31,7 +31,7 @@ function getMailtoUrl() {
 		args.push('body=' + encodeURIComponent(body))
 	}
   
-	var url = 'mailto:' + encodeURIComponent('powerun2008@163.com');
+	var url = 'mailto:' + encodeURIComponent('1156990597@putao-tech.net');
 	if(args.length > 0) {
 		url += '?' + args.join('&');
 	}
