@@ -1805,24 +1805,22 @@ ul#filters > .active > span {
 
 
 .parallax2 h1 {
-    text-align: center;
+    text-align: left;
     color: #fff;
     font-size: 25px;
     font-weight: 700;
     line-height: 40px;
     margin-top: 50px;
 }
-.parallax2 h2 {
-    text-align: center;
-}
+
 .parallax2 span {	 
     display:inline-block;
-    width: 102px;
-    height: 4px;
-    background: #FFFFFF; 
+    width: 4px;
+    height: 80px;
+    background: #21A117; 
 }
 .parallax2 p {
-    text-align: center;
+    text-align: left;
     color: #fff;
     font-size: 16px;
     font-weight: 300;
@@ -1842,6 +1840,22 @@ ul#filters > .active > span {
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
+.yj{
+	width: 49%;
+	float: left;
+	text-align: right;
+	margin-top: 53px;
+}
+.yj1{
+	width: 1%;
+	float: left;
+}
+.yj2{
+	width: 49%;
+	float: left;
+}
+
+
 .bottom{ width:100%; line-height:30px; text-align:center; font-size:14px;}
 /*----*/
 
