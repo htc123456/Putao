@@ -15,11 +15,11 @@ api =  jQuery('.fullwidthabnner').revolution(
 	                    startheight:600,
 	                    startwidth:1150,
 
-	                    hideThumbs:10,
-
-	                    thumbWidth:100,                         // Thumb With and Height and Amount (only if navigation Tyope set to thumb !)
-	                    thumbHeight:50,
-	                    thumbAmount:5,
+//	                    hideThumbs:10,
+//
+//	                    thumbWidth:100,                         // Thumb With and Height and Amount (only if navigation Tyope set to thumb !)
+//	                    thumbHeight:50,
+//	                    thumbAmount:5,
 
 	                    navigationType:"bullet",                // bullet, thumb, none
 	                    navigationArrows:"solo",                // nexttobullets, solo (old name verticalcentered), none
